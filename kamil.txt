@@ -12,5 +12,5 @@ Leyla ile Mecnun
 More Leyla ile Mecnun
 
 Ismail abinin babasinin sigorta company
-This is the master branch Erdal bakkal
+Erdal bakkal will be changed in this new branch conflict-resolver.
 mecnun
